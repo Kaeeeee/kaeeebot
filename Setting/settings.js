@@ -2,16 +2,16 @@ import fs from 'node:fs';
 import axios from 'axios';
 
 export default {
-	name: 'Mei Botz | bolaxd', //nama sih
-	developer: ['6285728625940', '13068016884', '6285381039923'], //Nomor owner
-	moderator: [], //Nomor mod [kalo ada]
+	name: 'Kaeee BOT', //nama sih
+	developer: ['6285693226113'], //Nomor owner
+	moderator: ['6285733816925'], //Nomor mod [kalo ada]
 	browser: ['bolaxd', 'safari', '1.0.0'],
 	longqr: 50000, // DURASI LAMA QR
 	gcbot: ['120363041493745571@g.us'], /* Only ID */
 	thumb: 'https://telegra.ph/file/7cbcad4a64086b99423ba.jpg',
 	thumb2: 'https://telegra.ph/file/7cbcad4a64086b99423ba.jpg',
 	emailgh: 'iqbalsheila619@gmail.com', // Setting to your email github
-	usernamegh: 'bolaxd', // setting to your username github
+	usernamegh: 'Kaeeeee', // setting to your username github
 	autoload: 30*1000, // Load DB [ ini udah Fix coi ]
 	timeoutgame: 50000,
 	sensitive: 0.75, // Kesensitivitas command
@@ -49,7 +49,7 @@ export default {
 	ok: 'Oke Min',
 	// SET WELLCOME DEFAULT
 	// @sub @user @admin @jmlh
-	joingc: 'Hai kak, saya ballbot\nSaya masuk kesini atas dasar perintah owner saya :)\nSaya out dari group ini jika owner saya memerintahkan keluar\nMohon gunakan Bot ini sebaik mungkin yaah :)',
+	joingc: 'Hai kak, saya KaeeeBOT\nSaya masuk kesini atas dasar perintah owner saya :)\nSaya out dari group ini jika owner saya memerintahkan keluar\nMohon gunakan Bot ini sebaik mungkin yaah :)',
 	fsub: '@admin Telah mengubah Subject group menjadi @sub', 
 	fppgc: '@admin Telah mengubah Foto profile group',
 	fbgc: '@admin Telah membuka Group ini, Member sekarang dapat mengirim pesan ke group ini',
